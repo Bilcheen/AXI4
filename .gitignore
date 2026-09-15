@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+sim_build/
+
+Vivado/AXI4.cache/
+Vivado/AXI4.hw/
+Vivado/AXI4.ip_user_files/
+Vivado/AXI4.runs/
+Vivado/AXI4.sim/
+Vivado/AXI4.gen/
+Vivado/*.jou
+Vivado/*.log
+Vivado/*.str
