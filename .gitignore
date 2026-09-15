@@ -11,4 +11,4 @@ Vivado/AXI4.sim/
 Vivado/AXI4.gen/
 Vivado/*.jou
 Vivado/*.log
-Vivado/*.str
+Vivado/*.strt git
