@@ -1,4 +1,3 @@
-# I2C_Verilog
 # AXI4 System (Verilog Implementation)
 
 本專案實作了一套基於 **AMBA AXI4 (Advanced eXtensible Interface 4)** 通訊協定的 Master 與 Slave 控制架構。設計從單通道獨立模組出發，逐步解耦、驗證，最終整合成完整的 AXI4 讀寫系統，並透過 Icarus Verilog (`iverilog`) 與 GTKWave 完成驗證。
