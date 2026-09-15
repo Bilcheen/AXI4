@@ -88,7 +88,7 @@ AXI/
 │   ├── tb_axi_system.vvp          # 
 │   └── tb_axi_system.vcd          # Top層完整波行檔
 │
-└── test_tool/                     # Gatewave與iVerilog tool測試
+└── test_tool/                     # gtkwave與iVerilog tool測試
     ├── test_tb.v                  
     ├── test.v                     
     ├── test.txt                   
